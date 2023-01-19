@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078026551982",
+    "project_id": "fyp-weather",
+    "storage_bucket": "fyp-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078026551982:android:393f082a146483afb0633f",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078026551982-12fhb7688niinvvq7hs7k5vuvgc7ov3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Z0T1HpXyFv_vWeINSA-1tQf2QYZazIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078026551982-12fhb7688niinvvq7hs7k5vuvgc7ov3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
